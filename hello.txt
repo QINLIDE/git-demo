@@ -4,6 +4,6 @@ hello git!hello git!hello git!hello git!hello git!hello git!
 hello powernode!hello powernode!hello powernode!hello powernode!
 hello git!hello git!hello git!hello git!hello git!hello git!
 hello powernode!hello powernode!hello powernode!hello powernode!
-hello git!hello git!hello git!hello git!hello git!hello git!
+hello git!hello git!hello git!hello git!hello git!hello git!       hello,master,master分支修改
 hello powernode!hello powernode!hello powernode!hello powernode!  
 123
